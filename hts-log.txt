@@ -1,0 +1,25 @@
+HTTrack3.49-5 launched on Mon, 23 Jun 2025 10:46:05 at https://www.myrbcl.com/
+(winhttrack https://www.myrbcl.com/ -O "/home/aman/websites/League superheroes" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:32	Error: 	"Not Found" (404) at link https://www.myrbcl.com/upload/service-bg-32.jpg (from https://www.myrbcl.com/)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/upload/photodune-3281784-soccer-player-m-red-2-600x577.jpg (from https://www.myrbcl.com/what-is-rbcl.php)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/upload/Georginio-Wijnaldum-600x577.jpg (from https://www.myrbcl.com/what-is-rbcl.php)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/upload/brijjmohan.jpg (from https://www.myrbcl.com/rbcl-organisers.php)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/upload/hp3-slider-1.j (from https://www.myrbcl.com/pay-fees.php)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/myrbcl.com (from https://www.myrbcl.com/term-and-condition.php)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/Version/index.html (from https://www.myrbcl.com/plugins/revslider/public/assets/js/revolution.tools.min.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/CustomEase.min.html (from https://www.myrbcl.com/plugins/revslider/public/assets/js/revolution.tools.min.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/TweenLite.min.html (from https://www.myrbcl.com/plugins/revslider/public/assets/js/revolution.tools.min.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/player.vimeo.com/api/player.js (from https://www.myrbcl.com/plugins/revslider/public/assets/js/rs6.min.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/origin%3dhttps_/index.html (from https://www.myrbcl.com/plugins/revslider/public/assets/js/rs6.min.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/video/index.html (from https://www.myrbcl.com/plugins/goodlayers-core/plugins/script.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/GET.html (from https://www.myrbcl.com/plugins/goodlayers-core/plugins/script.js)
+10:50:47	Error: 	"Not Found" (404) at link https://www.myrbcl.com/Error pJS - No image.html (from https://www.myrbcl.com/plugins/goodlayers-core/plugins/script.js)
+
+HTTrack Website Copier/3.49-5 mirror complete in 4 minutes 42 seconds : 275 links scanned, 260 files written (62297091 bytes overall) [56506067 bytes received at 200376 bytes/sec], 10030188 bytes transferred using HTTP compression in 123 files, ratio 40%, 11.0 requests per connection
+(14 errors, 0 warnings, 0 messages)
